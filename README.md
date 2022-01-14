@@ -1,5 +1,13 @@
 # App13
+This is part of the 31 days of small Xcode apps for January 2022
 
+Fun with toggles. 
+
+-Christopher.
+
+https://www.twitter.com/creatisoft
+
+https://www.creatisoft.com
 
 
 
